@@ -1,0 +1,16 @@
+# Object files
+*.o
+
+# Executables
+jdis
+
+# Generated archive
+jaccard-distance.tar.gz
+
+# Editors
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
